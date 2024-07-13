@@ -1,4 +1,4 @@
-# CCTV_Based_Face_Detection
+# Face Detection based CCTV Security System
 
 ## Scenario
 Current surveillance systems lack
